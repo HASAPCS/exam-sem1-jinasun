@@ -22,6 +22,8 @@ public class FuelDepot {
 
     // Method to implement for a)
     public int nextTankToFill(int threshold) {
+        for (i = 0; i < this.tanks.size)
+
         // Your implementation here
     }
 
